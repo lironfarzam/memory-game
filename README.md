@@ -1,6 +1,5 @@
 # Memory Game Project
-
-## Table of Contents
+---------------------------
 - [Introduction](#introduction)
 - [Features](#features)
 - [Getting Started](#getting-started)
